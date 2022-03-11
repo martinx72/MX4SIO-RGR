@@ -18,8 +18,6 @@ This is designed to use the stock shell from official PS2 memory card from SONY.
 
 <img src="https://raw.githubusercontent.com/martinx72/MX4SIO-RGR/master/images/RGR_MX4SIO_05.jpeg" width="640">  
 
-<img src="https://raw.githubusercontent.com/martinx72/MX4SIO-RGR/master/images/RGR_MX4SIO_01.jpeg" width="640">  
-
 <img src="https://raw.githubusercontent.com/martinx72/MX4SIO-RGR/master/images/RGR_MX4SIO_06.jpeg" width="640">  
 
 
