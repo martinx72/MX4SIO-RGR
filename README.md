@@ -1,6 +1,8 @@
 # MX4SIO-RGR
 
 It is MX4SIO RGR Version. I made this just because I was trying to make it with some parts that I can source easily.
+The original creation is here: https://www.trisaster.de/page/index.php?topic=575 thanks to trisaster.de making this.
+
 
 <img src="https://raw.githubusercontent.com/martinx72/MX4SIO-RGR/master/images/BoardPreview.png" width="640">  
 
