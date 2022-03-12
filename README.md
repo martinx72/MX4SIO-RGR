@@ -26,6 +26,9 @@ This is designed to use the stock shell from official PS2 memory card from SONY.
 If you want a 3D printed shell, here is your chance: https://www.thingiverse.com/thing:5195671
 (the STL file is not from me, thanks to the one who created the file)
 
+And mofifed 3D printed shell from me: https://www.thingiverse.com/thing:5302407 
+(T-Flash door and LED hole were added)
+
 **BOM**. 
 | Item | Part Number |
 | ------ | ------ |
