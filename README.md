@@ -41,4 +41,5 @@ And mofifed 3D printed shell from me: https://www.thingiverse.com/thing:5302407
 | Q2 | BSS84 SOT23 |
 | LED1 | 0805 RED, next to R2 |
 | LED2 | 0805 BLUE, next to R3 |
-| C1 | MICROSD_PP |
+| C1 | Micro SD Slot TFP09-2-12B / CSD11251278002 |
+
