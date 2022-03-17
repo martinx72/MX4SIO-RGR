@@ -43,6 +43,7 @@ And mofifed 3D printed shell from me: https://www.thingiverse.com/thing:5302407
 | LED2 | 0805 BLUE, next to R3 |
 | C1 | Micro SD Slot TFP09-2-12B / CSD11251278002 |
 
+PCB thickness: 1mm
 
 # Note
 
